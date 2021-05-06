@@ -1,0 +1,10 @@
+{
+  "name": "Add Item",
+  "version": "1.0.0",
+  "description": "This is a basic template for adding an item.",
+  "main": "index.js",
+  "dependencies": {
+    "vandium": "*",
+    "mysql": "*"
+  }
+}
