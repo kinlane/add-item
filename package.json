@@ -1,5 +1,5 @@
 {
-  "name": "Add Item",
+  "name": "add-item",
   "version": "1.0.0",
   "description": "This is a basic template for adding an item.",
   "main": "index.js",
